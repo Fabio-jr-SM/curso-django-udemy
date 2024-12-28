@@ -12,6 +12,12 @@ Este repositório contém material relacionado ao curso "Django Web Framework e 
 ### Gitignore para um projeto Django
 [Django gitignore](https://djangowaves.com/tips-tricks/gitignore-for-a-django-project/)
 
+### Códigos de status de respostas HTTP
+[Códigos HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
+
+### Métodos de requisição HTTP
+[Métodos HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods)
+
 ---
 
 ### Requisitos
