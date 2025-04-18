@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-wq-4m#*(p2z%di7nl7n-3#%ue-50+ig@*%1+_c#8wnw7wle%qn
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '10.0.0.101'
+    '*',  # Permite qualquer host. Em produção, deve ser restrito a domínios específicos.
 ]
 
 
